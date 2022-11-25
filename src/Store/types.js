@@ -1,0 +1,9 @@
+
+export const AUTH = {
+    SET_CURRENT_USER:"SET_CURRENT_USER"
+}
+
+
+export const CLEAR_REDUX = {
+    CLEAR_REDUCER:"CLEAR_REDUCER"
+}
